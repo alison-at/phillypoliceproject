@@ -1,5 +1,5 @@
 Purpose:
-Code to search for philadelphia police misconduct reports 2018- 2023. Search by year or by district. Project created in order to find data from Bi-Co News reporting on philadelphia police misconduct.
+Code to search for philadelphia police misconduct reports 2018- 2023. Search by year, district, or race. Project created in order to find data from Bi-Co News reporting on philadelphia police misconduct.
 
 Reporting Produced:
 https://bicollegenews.com/2024/02/15/a-ski-mask-ban-and-philadelphias-future/
